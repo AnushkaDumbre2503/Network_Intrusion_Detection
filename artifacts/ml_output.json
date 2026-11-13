@@ -21,10 +21,10 @@
       "anomaly_score": 0.08256217512943331,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03739532349549427,
+      "risk_score": 0.037395323495494355,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.714578288836198,
+      "confidence": 0.7145782888361978,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -32,10 +32,10 @@
       "anomaly_score": 0.08241582999215935,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.053222157490366545,
+      "risk_score": 0.053222157490366594,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7210487971430816,
+      "confidence": 0.7210487971430815,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -43,10 +43,10 @@
       "anomaly_score": 0.08051656969445287,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.04873389880202483,
+      "risk_score": 0.048733898802024916,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.722396618189181,
+      "confidence": 0.7223966181891808,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -54,10 +54,10 @@
       "anomaly_score": 0.10138423093202314,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03509667775358844,
+      "risk_score": 0.03509667775358834,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7205773924338017,
+      "confidence": 0.7205773924338019,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -76,10 +76,10 @@
       "anomaly_score": 0.05939676810612815,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.034623179977598915,
+      "risk_score": 0.03462317997759901,
       "risk_level": "Low",
       "behavior_tag": "Scanning Behavior",
-      "confidence": 0.7245772627371827,
+      "confidence": 0.7245772627371824,
       "explanation": "Irregular port scanning pattern detected"
     },
     {
@@ -98,10 +98,10 @@
       "anomaly_score": 0.10150982175070844,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.057408045327426764,
+      "risk_score": 0.05740804532742681,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7206200158555568,
+      "confidence": 0.7206200158555567,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -120,10 +120,10 @@
       "anomaly_score": 0.07333727693079095,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.05482812265875561,
+      "risk_score": 0.05482812265875568,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.720180845626695,
+      "confidence": 0.7201808456266948,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -142,10 +142,10 @@
       "anomaly_score": 0.11715853302595741,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.04520274593801547,
+      "risk_score": 0.04520274593801544,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7168359356636396,
+      "confidence": 0.7168359356636397,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -164,10 +164,10 @@
       "anomaly_score": 0.086699205473878,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.031490529162538486,
+      "risk_score": 0.03149052916253852,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7303129826731108,
+      "confidence": 0.7303129826731107,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -186,10 +186,10 @@
       "anomaly_score": 0.1549264408910795,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03417913770745823,
+      "risk_score": 0.034179137707458195,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7230671100003042,
+      "confidence": 0.7230671100003043,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -197,10 +197,10 @@
       "anomaly_score": 0.21087329802937943,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03483106741873605,
+      "risk_score": 0.03483106741873602,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7214880373556923,
+      "confidence": 0.7214880373556924,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -208,10 +208,10 @@
       "anomaly_score": 0.07083210050283195,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.06417074886093975,
+      "risk_score": 0.06417074886093983,
       "risk_level": "Low",
       "behavior_tag": "High Traffic Burst",
-      "confidence": 0.7174374974282364,
+      "confidence": 0.7174374974282361,
       "explanation": "High packet rate indicates possible DDoS attack"
     },
     {
@@ -241,10 +241,10 @@
       "anomaly_score": 0.049650872619139474,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03984453513555433,
+      "risk_score": 0.03984453513555439,
       "risk_level": "Low",
       "behavior_tag": "Scanning Behavior",
-      "confidence": 0.7265545008278991,
+      "confidence": 0.726554500827899,
       "explanation": "Irregular port scanning pattern detected"
     },
     {
@@ -252,10 +252,10 @@
       "anomaly_score": 0.12087553990413136,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03438148834837787,
+      "risk_score": 0.034381488348377905,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7225106612653508,
+      "confidence": 0.7225106612653507,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -263,10 +263,10 @@
       "anomaly_score": 0.1412402657033674,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03558311152135104,
+      "risk_score": 0.035583111521351005,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7192801222631217,
+      "confidence": 0.7192801222631218,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -277,7 +277,7 @@
       "risk_score": 0.879944643951473,
       "risk_level": "High",
       "behavior_tag": "High Traffic Burst",
-      "confidence": 0.7171728572705096,
+      "confidence": 0.7171728572705095,
       "explanation": "High packet rate indicates possible DDoS attack"
     },
     {
@@ -285,10 +285,10 @@
       "anomaly_score": 0.12075474654168439,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.05233876982232638,
+      "risk_score": 0.052338769822326346,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7190083927410946,
+      "confidence": 0.7190083927410947,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -307,10 +307,10 @@
       "anomaly_score": 0.1370973459640374,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03512336089979646,
+      "risk_score": 0.035123360899796376,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7205096995694218,
+      "confidence": 0.720509699569422,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -318,10 +318,10 @@
       "anomaly_score": 0.17444819129849437,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.045171452290644884,
+      "risk_score": 0.045171452290644974,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7198121348954252,
+      "confidence": 0.719812134895425,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -362,10 +362,10 @@
       "anomaly_score": 0.13405779213047364,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03617159095381914,
+      "risk_score": 0.03617159095381909,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7176743458455437,
+      "confidence": 0.7176743458455438,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -406,10 +406,10 @@
       "anomaly_score": 0.18206065926453047,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.05203872375590515,
+      "risk_score": 0.0520387237559052,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7090823572045503,
+      "confidence": 0.7090823572045502,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -417,10 +417,10 @@
       "anomaly_score": 0.15727797266583327,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03499586359998842,
+      "risk_score": 0.03499586359998839,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7208730468347855,
+      "confidence": 0.7208730468347856,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -461,10 +461,10 @@
       "anomaly_score": 0.21091395974616178,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03480128956640297,
+      "risk_score": 0.03480128956640285,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7214350389432037,
+      "confidence": 0.721435038943204,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -494,10 +494,10 @@
       "anomaly_score": 0.07926404637013063,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.035839912798670645,
+      "risk_score": 0.035839912798670576,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7185697851019016,
+      "confidence": 0.7185697851019018,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -505,10 +505,10 @@
       "anomaly_score": 0.14881816098995293,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.0359332486513948,
+      "risk_score": 0.035933248651394765,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7183178458528288,
+      "confidence": 0.7183178458528289,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -538,10 +538,10 @@
       "anomaly_score": 0.08103389492532775,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.035498909405553294,
+      "risk_score": 0.03549890940555326,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7197321086106504,
+      "confidence": 0.7197321086106505,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -549,10 +549,10 @@
       "anomaly_score": 0.05178226996947255,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03183677316046455,
+      "risk_score": 0.03183677316046464,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7293889622600715,
+      "confidence": 0.7293889622600713,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -560,10 +560,10 @@
       "anomaly_score": 0.07646320160254216,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.036322794224332676,
+      "risk_score": 0.03632279422433261,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7172660884494051,
+      "confidence": 0.7172660884494053,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -582,10 +582,10 @@
       "anomaly_score": 0.13772621113118616,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03488309149055502,
+      "risk_score": 0.034883091490554984,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7211691947052852,
+      "confidence": 0.7211691947052853,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -604,10 +604,10 @@
       "anomaly_score": 0.21383824258502365,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03465032102448312,
+      "risk_score": 0.034650321024483004,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.721971293345219,
+      "confidence": 0.7219712933452194,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -615,10 +615,10 @@
       "anomaly_score": 0.20361587237950657,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.035750104575408725,
+      "risk_score": 0.03575010457540869,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7189130487357827,
+      "confidence": 0.7189130487357828,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -629,7 +629,7 @@
       "risk_score": 0.9171220091943515,
       "risk_level": "High",
       "behavior_tag": "High Traffic Burst",
-      "confidence": 0.7140476067582626,
+      "confidence": 0.7140476067582625,
       "explanation": "High packet rate indicates possible DDoS attack"
     },
     {
@@ -648,10 +648,10 @@
       "anomaly_score": 0.18553567164924123,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.044876026313788016,
+      "risk_score": 0.04487602631378805,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7226051592216463,
+      "confidence": 0.7226051592216461,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -659,10 +659,10 @@
       "anomaly_score": 0.1381095588788383,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.033879218218156,
+      "risk_score": 0.03387921821815597,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7238636699840509,
+      "confidence": 0.723863669984051,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -681,10 +681,10 @@
       "anomaly_score": 0.1440654641597427,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03340781575893797,
+      "risk_score": 0.03340781575893781,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7254249072592407,
+      "confidence": 0.7254249072592411,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -692,10 +692,10 @@
       "anomaly_score": 0.11772908781311892,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.04598636908237538,
+      "risk_score": 0.045986369082375314,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.6911746871743518,
+      "confidence": 0.691174687174352,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -703,10 +703,10 @@
       "anomaly_score": 0.11644167343833522,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03544193500676453,
+      "risk_score": 0.0354419350067644,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7196446485653156,
+      "confidence": 0.719644648565316,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -717,7 +717,7 @@
       "risk_score": 0.6488742490722245,
       "risk_level": "Medium",
       "behavior_tag": "SYN Flood Pattern",
-      "confidence": 0.7300657717729964,
+      "confidence": 0.7300657717729961,
       "explanation": "SYN imbalance indicates possible DDoS attack"
     },
     {
@@ -736,10 +736,10 @@
       "anomaly_score": 0.2127087992898422,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03528038596659042,
+      "risk_score": 0.03528038596659047,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7201796145916474,
+      "confidence": 0.7201796145916473,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -747,10 +747,10 @@
       "anomaly_score": 0.10761939455181668,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.039448696188340154,
+      "risk_score": 0.039448696188340085,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.709142316489054,
+      "confidence": 0.7091423164890542,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -758,10 +758,10 @@
       "anomaly_score": 0.20819533467418494,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03397245501807173,
+      "risk_score": 0.033972455018071696,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.723658259002947,
+      "confidence": 0.7236582590029471,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -769,10 +769,10 @@
       "anomaly_score": 0.1837901718082568,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.04789036412549324,
+      "risk_score": 0.04789036412549329,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7184413011170561,
+      "confidence": 0.718441301117056,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -780,10 +780,10 @@
       "anomaly_score": 0.0756366871113191,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.0438582984735232,
+      "risk_score": 0.04385829847352314,
       "risk_level": "Low",
       "behavior_tag": "Scanning Behavior",
-      "confidence": 0.6969205741634227,
+      "confidence": 0.6969205741634228,
       "explanation": "Irregular port scanning pattern detected"
     },
     {
@@ -791,10 +791,10 @@
       "anomaly_score": 0.1458810223256765,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03259647886004323,
+      "risk_score": 0.03259647886004311,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7273270217839396,
+      "confidence": 0.7273270217839399,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -813,10 +813,10 @@
       "anomaly_score": 0.15307518199612025,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.0366373643475377,
+      "risk_score": 0.03663736434753775,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7164208536760905,
+      "confidence": 0.7164208536760904,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -857,10 +857,10 @@
       "anomaly_score": 0.13630945344425344,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03535390933324141,
+      "risk_score": 0.03535390933324127,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.719882511650639,
+      "confidence": 0.7198825116506393,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -868,10 +868,10 @@
       "anomaly_score": 0.18496693546469395,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.04518764105550156,
+      "risk_score": 0.0451876410555016,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.715991510688212,
+      "confidence": 0.7159915106882119,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -890,10 +890,10 @@
       "anomaly_score": 0.1627406552975047,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.04850594543310001,
+      "risk_score": 0.04850594543310009,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7174915609759451,
+      "confidence": 0.7174915609759449,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -901,10 +901,10 @@
       "anomaly_score": 0.12495347861787842,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.035538567266372056,
+      "risk_score": 0.035538567266371966,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7194384223866025,
+      "confidence": 0.7194384223866027,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -912,10 +912,10 @@
       "anomaly_score": 0.009467897390752156,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.035909970105993706,
+      "risk_score": 0.03590997010599362,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7183895776125153,
+      "confidence": 0.7183895776125155,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -945,10 +945,10 @@
       "anomaly_score": 0.11954817646180171,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.038287349468595105,
+      "risk_score": 0.038287349468595036,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7122425023439231,
+      "confidence": 0.7122425023439233,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -956,10 +956,10 @@
       "anomaly_score": 0.03888595353377722,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.036813397901340875,
+      "risk_score": 0.03681339790134098,
       "risk_level": "Low",
       "behavior_tag": "Scanning Behavior",
-      "confidence": 0.7189183358853203,
+      "confidence": 0.7189183358853201,
       "explanation": "Irregular port scanning pattern detected"
     },
     {
@@ -967,10 +967,10 @@
       "anomaly_score": 0.1344232240969761,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.0359187026100901,
+      "risk_score": 0.03591870261009003,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7183571199054104,
+      "confidence": 0.7183571199054106,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -1011,10 +1011,10 @@
       "anomaly_score": 0.16879926132538992,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.03496311457530197,
+      "risk_score": 0.034963114575301914,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7209857497367383,
+      "confidence": 0.7209857497367385,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -1033,10 +1033,10 @@
       "anomaly_score": 0.14105579867804102,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.032591822870805615,
+      "risk_score": 0.03259182287080573,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.727339457746493,
+      "confidence": 0.7273394577464927,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -1044,10 +1044,10 @@
       "anomaly_score": 0.1579705597690017,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.0367476149890162,
+      "risk_score": 0.03674761498901613,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7161213580643497,
+      "confidence": 0.71612135806435,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -1055,10 +1055,10 @@
       "anomaly_score": 0.20468187925694364,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.035165106891876345,
+      "risk_score": 0.03516510689187631,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7205855598607585,
+      "confidence": 0.7205855598607586,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -1077,10 +1077,10 @@
       "anomaly_score": 0.08948902263844216,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.038710770547190694,
+      "risk_score": 0.03871077054719066,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7108296935427078,
+      "confidence": 0.7108296935427079,
       "explanation": "Traffic is within normal parameters"
     },
     {
@@ -1099,10 +1099,10 @@
       "anomaly_score": 0.1238298467541461,
       "is_anomaly": 0,
       "attack_type": "1.0",
-      "risk_score": 0.0330576301349329,
+      "risk_score": 0.033057630134932986,
       "risk_level": "Low",
       "behavior_tag": "Normal",
-      "confidence": 0.7260890237828034,
+      "confidence": 0.7260890237828032,
       "explanation": "Traffic is within normal parameters"
     }
   ],

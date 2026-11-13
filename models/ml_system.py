@@ -11,8 +11,8 @@ warnings.filterwarnings('ignore')
 
 def run_ml_pipeline():
     print("Loading data...")
-    train_path = "ZombieApi\\data\\train_data.csv"
-    test_path = "ZombieApi\\data\\test_data.csv"
+    train_path = "data/train_data.csv"
+    test_path = "data/test_data.csv"
     
     if not os.path.exists(train_path) or not os.path.exists(test_path):
         print(json.dumps({"error": f"Data files not found in data/ folder"}))
