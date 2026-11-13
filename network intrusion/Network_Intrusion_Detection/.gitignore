@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local datasets and generated processing outputs
+dataset/
+data/processed/*.csv
+artifacts/*.pkl
+artifacts/evaluation_report.json
+*.log
+
+# Temporary uploads
+temp_*.csv
+
+.pytest_cache/

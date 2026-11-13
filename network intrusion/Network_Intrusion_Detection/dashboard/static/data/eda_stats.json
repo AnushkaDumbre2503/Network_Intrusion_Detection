@@ -1,0 +1,249 @@
+{
+  "data_overview": {
+    "shape": [
+      2504616,
+      33
+    ]
+  },
+  "class_distribution": {
+    "Benign": 2079885,
+    "DDoS": 320871,
+    "PortScan": 90694,
+    "BruteForce": 9084,
+    "WebAttack": 2091,
+    "Bot": 1944,
+    "Infiltration": 36,
+    "Heartbleed": 11
+  },
+  "class_percentage": {
+    "Benign": 83.04,
+    "DDoS": 12.81,
+    "PortScan": 3.62,
+    "BruteForce": 0.36,
+    "WebAttack": 0.08,
+    "Bot": 0.08,
+    "Infiltration": 0.0,
+    "Heartbleed": 0.0
+  },
+  "top_ports": {
+    "53": 890880,
+    "80": 531200,
+    "443": 452257,
+    "123": 21688,
+    "22": 10589,
+    "21": 9897,
+    "389": 5959,
+    "88": 5251,
+    "137": 3069,
+    "465": 2900
+  },
+  "top_suspicious_ports": {
+    "4282": 1.0,
+    "27636": 1.0,
+    "4617": 1.0,
+    "143": 0.7676056338028169,
+    "199": 0.7548387096774194,
+    "23": 0.7536231884057971,
+    "110": 0.7516339869281046,
+    "8888": 0.75,
+    "256": 0.7417218543046358,
+    "111": 0.74
+  },
+  "traffic_intensity": {
+    "Benign": {
+      "Flow Bytes/s": 1690678.749178297,
+      "Flow Packets/s": 52261.51062824659
+    },
+    "Bot": {
+      "Flow Bytes/s": 282808.5745357927,
+      "Flow Packets/s": 42766.04864976735
+    },
+    "BruteForce": {
+      "Flow Bytes/s": 25197.31522958665,
+      "Flow Packets/s": 5645.202716491105
+    },
+    "DDoS": {
+      "Flow Bytes/s": 66676.31522291944,
+      "Flow Packets/s": 739.7866092588911
+    },
+    "Heartbleed": {
+      "Flow Bytes/s": 65902.80217272727,
+      "Flow Packets/s": 40.55898991363636
+    },
+    "Infiltration": {
+      "Flow Bytes/s": 20188.219030217417,
+      "Flow Packets/s": 2820.0630398796666
+    },
+    "PortScan": {
+      "Flow Bytes/s": 253704.2371553552,
+      "Flow Packets/s": 71995.39134039947
+    },
+    "WebAttack": {
+      "Flow Bytes/s": 164.63485295110473,
+      "Flow Packets/s": 1549.7663819174197
+    }
+  },
+  "packet_imbalance": {
+    "Benign": -0.19058047331631284,
+    "Bot": -0.14581078857860752,
+    "BruteForce": 0.04406751886747087,
+    "DDoS": -0.5564231133241179,
+    "Heartbleed": -0.9961663370981516,
+    "Infiltration": 0.865483536703239,
+    "PortScan": -0.7435912087398939,
+    "WebAttack": -0.1750088600578662
+  },
+  "timing_behavior": {
+    "Benign": {
+      "Flow IAT Mean": 973868.9206331726,
+      "iat_variability": 1.386629003236819
+    },
+    "Bot": {
+      "Flow IAT Mean": 60046.23893611533,
+      "iat_variability": 1.3724718542101526
+    },
+    "BruteForce": {
+      "Flow IAT Mean": 249174.0200163518,
+      "iat_variability": 2.1441319862465944
+    },
+    "DDoS": {
+      "Flow IAT Mean": 4982831.833955052,
+      "iat_variability": 2.761843207478538
+    },
+    "Heartbleed": {
+      "Flow IAT Mean": 24684.474692727268,
+      "iat_variability": 6.268373935351542
+    },
+    "Infiltration": {
+      "Flow IAT Mean": 2020438.9288708335,
+      "iat_variability": 6.130568745858072
+    },
+    "PortScan": {
+      "Flow IAT Mean": 46210.72624254364,
+      "iat_variability": 0.02313531888861608
+    },
+    "WebAttack": {
+      "Flow IAT Mean": 1642700.2210243712,
+      "iat_variability": 1.7119693467104986
+    }
+  },
+  "flag_analysis": {
+    "Benign": {
+      "SYN Flag Count": 0.05517372354721535,
+      "ACK Flag Count": 0.277881709806071,
+      "RST Flag Count": 0.0003298259278758201,
+      "flag_ratio": 0.02760609360613688
+    },
+    "Bot": {
+      "SYN Flag Count": 0.0,
+      "ACK Flag Count": 0.3683127572016461,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.0
+    },
+    "BruteForce": {
+      "SYN Flag Count": 0.21532364597093792,
+      "ACK Flag Count": 0.23458828709819463,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.10766182298546896
+    },
+    "DDoS": {
+      "SYN Flag Count": 0.00658520090628321,
+      "ACK Flag Count": 0.5427321259945586,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.003292600453141605
+    },
+    "Heartbleed": {
+      "SYN Flag Count": 0.0,
+      "ACK Flag Count": 0.9090909090909091,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.0
+    },
+    "Infiltration": {
+      "SYN Flag Count": 0.5555555555555556,
+      "ACK Flag Count": 0.8333333333333334,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.2777777777777778
+    },
+    "PortScan": {
+      "SYN Flag Count": 0.0,
+      "ACK Flag Count": 0.0006725913511367896,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.0
+    },
+    "WebAttack": {
+      "SYN Flag Count": 0.0,
+      "ACK Flag Count": 0.041128646580583454,
+      "RST Flag Count": 0.0,
+      "flag_ratio": 0.0
+    }
+  },
+  "day_wise_analysis": {
+    "Friday": {
+      "Benign": 390068,
+      "Bot": 1944,
+      "BruteForce": 0,
+      "DDoS": 128013,
+      "Heartbleed": 0,
+      "Infiltration": 0,
+      "PortScan": 90694,
+      "WebAttack": 0
+    },
+    "Monday": {
+      "Benign": 485806,
+      "Bot": 0,
+      "BruteForce": 0,
+      "DDoS": 0,
+      "Heartbleed": 0,
+      "Infiltration": 0,
+      "PortScan": 0,
+      "WebAttack": 0
+    },
+    "Thursday": {
+      "Benign": 403981,
+      "Bot": 0,
+      "BruteForce": 0,
+      "DDoS": 0,
+      "Heartbleed": 0,
+      "Infiltration": 36,
+      "PortScan": 0,
+      "WebAttack": 2091
+    },
+    "Tuesday": {
+      "Benign": 398651,
+      "Bot": 0,
+      "BruteForce": 9084,
+      "DDoS": 0,
+      "Heartbleed": 0,
+      "Infiltration": 0,
+      "PortScan": 0,
+      "WebAttack": 0
+    },
+    "Wednesday": {
+      "Benign": 401379,
+      "Bot": 0,
+      "BruteForce": 0,
+      "DDoS": 192858,
+      "Heartbleed": 11,
+      "Infiltration": 0,
+      "PortScan": 0,
+      "WebAttack": 0
+    }
+  },
+  "attack_type": {
+    "DDoS": 320871,
+    "PortScan": 90694,
+    "BruteForce": 9084,
+    "WebAttack": 2091,
+    "Bot": 1944,
+    "Infiltration": 36,
+    "Heartbleed": 11
+  },
+  "insights": [
+    "Class distribution is imbalanced; evaluate per-class recall rather than accuracy alone.",
+    "Port attack ratios are descriptive dataset statistics, not proof that a port is malicious.",
+    "Flow Packets/s and Flow Bytes/s summarize recorded flow intensity.",
+    "Traffic imbalance and inter-arrival-time variability describe flow characteristics, not user intent.",
+    "SYN-to-ACK ratio is a heuristic indicator and cannot independently confirm a SYN flood.",
+    "Day-wise counts describe the CICIDS2017 collection period, not live network activity."
+  ]
+}
